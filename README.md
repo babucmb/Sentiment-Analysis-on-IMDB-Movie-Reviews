@@ -62,6 +62,3 @@ We use the **IMDB dataset** available in TensorFlow. This dataset contains 50,00
 - Increase dataset size or fine-tune hyperparameters.
 - Experiment with different architectures (GRU, Transformer models).
 
-## Author
-*CMB - Computer Science & Engineering (AI & ML Specialization)*
-
